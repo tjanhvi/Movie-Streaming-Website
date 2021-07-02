@@ -51,14 +51,14 @@ span {
   margin-left: -370px;
 }
 .text-container .button {
-  color: #fff;
+  color: rgb(248, 248, 248);
   text-decoration: none;
   background-color: rgb(165, 7, 7);
 }
-.text-container .button:hover {
+.text-container .button :hover {
   color: rgb(253, 251, 251);
   text-decoration: none;
-  background-color: rgb(202, 6, 6);
+  background-color: rgb(190, 6, 6);
   transition:  all 500ms;
 }
 .bottom-text-container {
